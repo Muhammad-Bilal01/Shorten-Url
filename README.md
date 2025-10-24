@@ -88,28 +88,6 @@ The frontend will run on `http://localhost:5173`
 6. **Open your browser**
 Navigate to `http://localhost:5173` to use the application!
 
-## 📱 Screenshots
-
-### Main Interface
-![Main Interface](https://via.placeholder.com/600x400/667eea/ffffff?text=Main+Interface)
-
-*Clean, minimalist design with gradient background*
-
-### URL Shortening
-![URL Shortening](https://via.placeholder.com/600x400/38a169/ffffff?text=URL+Shortening)
-
-*Easy-to-use form with real-time validation*
-
-### Analytics Dashboard
-![Analytics](https://via.placeholder.com/600x400/764ba2/ffffff?text=Analytics+Dashboard)
-
-*Real-time visit tracking and statistics*
-
-### Mobile Responsive
-![Mobile View](https://via.placeholder.com/300x600/667eea/ffffff?text=Mobile+View)
-
-*Fully responsive design for all devices*
-
 ## 🛠️ Technology Stack
 
 ### Frontend
@@ -266,32 +244,6 @@ npm start
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Express.js for the robust backend
-- Vite for the fast development experience
-- All open-source contributors
-
-## 📞 Support
-
-If you have any questions or need help:
-
-1. Check the [Issues](https://github.com/yourusername/shorten-url/issues) page
-2. Create a new issue with detailed description
-3. Contact: your.email@example.com
 
 ---
 
